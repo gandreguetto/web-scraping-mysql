@@ -6,4 +6,6 @@ Em seguida, uma base de dados MySql é criada com as informações coletadas. Ne
 
 A base criada é composta por 3 tabelas: livros_preços, autores e categorias. Os relacionamentos são definidos de tal maneira que a tabela de títulos e preços faz referência às tabelas de autores e categorias.
 
+![mysql](https://github.com/gandreguetto/web-scraping-mysql/assets/88217999/b85744ec-c6e1-4d45-97b5-6a51b3b0bbd8)
+
 Apesar de bastante simples, esse projeto é um excelente exercício de duas tarefas importantes quando se trabalha com dados: a coleta de dados na web e criação de bancos sql. 
